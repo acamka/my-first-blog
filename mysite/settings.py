@@ -25,7 +25,7 @@ SECRET_KEY = 'dvwgbwg$z912yt8clb+39p@_#4x%-qwt$s^$fc)&b4tctd!59_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [http://acama.pythonanywhere.com/]
+ALLOWED_HOSTS = ['acama.pythonanywhere.com']
 
 
 # Application definition
